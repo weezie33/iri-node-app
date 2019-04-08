@@ -1,1 +1,1 @@
-# iri-node-app
+# liri-node-app
